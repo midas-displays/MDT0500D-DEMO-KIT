@@ -23,7 +23,7 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
+current_page=0
 FILE_NAME_0=0;C;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FMDT0500D-DEMO-KIT%2FMDT0500D%2Fmain_MDT0500D10SC.c;0;4
 FILE_NAME_1=0;C;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FMDT0500D-DEMO-KIT%2FMDT0500D%2FLibrary%2FCap_Touch.c;0;4
 
