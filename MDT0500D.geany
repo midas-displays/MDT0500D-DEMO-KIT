@@ -14,7 +14,7 @@ indent_mode=2
 
 [project]
 name=MDT0500D
-base_path=/home/pi/MDT0700A-DEMO-KIT/MDT0700A/
+base_path=/home/pi/MDT0500D-DEMO-KIT/MDT0500D/
 description=
 file_patterns=
 
@@ -23,8 +23,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=0;C;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FMDT0700A-DEMO-KIT%2FMDT0700A%2Fmain_MDT0700A0OSC.c;0;4
+current_page=1
+FILE_NAME_0=0;C;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FMDT0500D-DEMO-KIT%2FMDT0500D%2Fmain_MDT0500D10SC.c;0;4
+FILE_NAME_1=0;C;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FMDT0500D-DEMO-KIT%2FMDT0500D%2FLibrary%2FCap_Touch.c;0;4
 
 [VTE]
 last_dir=/home/pi
